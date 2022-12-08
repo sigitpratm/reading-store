@@ -1,0 +1,54 @@
+{
+  "author": [
+    {
+      "id": 1,
+      "value": "William Shakespeare",
+      "label": "William Shakespeare",
+      "biografi": "William Shakespeare adalah seorang pujangga, dramawan, dan pemain sandiwara berkebangsaan Inggris, secara luas dianggap sebagai penulis drama berbahasa Inggris terhebat dan dramawan termasyhur di dunia. Ia sering disebut sebagai penyair nasional Inggris dan dijuluki Pujangga dari Avon"
+    },
+    {
+      "id": 2,
+      "value": "Agatha Christie",
+      "label": "Agatha Christie",
+      "biografi": "Dame Agatha Mary Clarissa Christie, DBE adalah seorang penulis fiksi kriminal Inggris yang terkenal dengan enam puluh enam novel detektif dan empat belas koleksi cerita pendeknya. Karyanya yang paling terkenal bercerita tentang detektif fiksi Hercule Poirot dan Miss Marple"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Shakespeare's plays",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "Drama",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gilbert_WShakespeares_Plays.jpg",
+      "desc": "Shakespeare's plays portray recognisable people in situations that we can all relate to - including love, marriage, death, mourning, guilt, the need to make difficult choices, separation, reunion and reconciliation. They do so with great humanity, tolerance, and wisdom. They help us to understand what it is to be human, and to cope with the problems of being so.  "
+    },
+    {
+      "id": 2,
+      "title": "Whodunit",
+      "author": "Agatha Christie",
+      "authorId": 2,
+      "genre": "Drama",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Adventure_of_the_Abbey_Grange_03.jpg/220px-The_Adventure_of_the_Abbey_Grange_03.jpg",
+      "desc": "A whodunit or whodunnit is a complex, plot-driven variety of the detective story in which the puzzle is the main feature of interest. The reader or viewer is provided with clues from which the identity of the perpetrator of the crime may be deduced before the solution is revealed in the final pages of the book."
+    },
+    {
+      "id": 3,
+      "title": "Miss Marple",
+      "author": "Agatha Christie",
+      "authorId": 2,
+      "genre": "Mystery",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22DjQPJkvUhl6oP1m7l4MvzmBsg4Q5zYHK82RpDpJUQ3fTFD_",
+      "desc": "Miss Marple is a gentle, respectable old woman who has a remarkable ability to solve mysteries and crimes. She first appeared in the novel The Murder in the Vicarage (1930). There have been many film and television versions of the stories."
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "fiction",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png/330px-Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png",
+      "desc": "Macbeth adalah sandiwara tragedi karya William Shakespeare yang ditulis sekitar tahun 1606. Drama ini adalah salah satu tragedi Shakespeare yang terkenal dan juga yang paling pendek. Terjemahan buku ke dalam bahasa Indonesianya dengan judul yang sama dilakukan oleh Trisno Sumardjo",
+      "id": 4
+    }
+  ]
+}
